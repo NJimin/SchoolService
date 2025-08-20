@@ -1,1 +1,1 @@
-# SchoolService
+# School Service
